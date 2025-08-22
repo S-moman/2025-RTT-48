@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    color: black;
+}
+.container {
+    border: 1px solid red;
+    width: 1300;
+    height: 400px;
+    display: flex;
+    
+}
+.bigBluebox {
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+.smallBlackbox {
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    display: flex;
+}
+.smallBluebox {
+    border: 1px solid black;
+    width: 1px;
+    height: 1px;
+}

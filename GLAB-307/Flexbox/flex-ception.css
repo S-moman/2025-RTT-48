@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+    color: black;
+}
+.container {
+    border: 1px solid red;
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    
+}
+.bigbox {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    align-items: space-between;
+    display: flex;
+    flex-direction: column;
+}
+.blackbox {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    /* justify-content: space-around; */
+}
